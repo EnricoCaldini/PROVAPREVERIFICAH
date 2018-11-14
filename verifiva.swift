@@ -10,6 +10,6 @@ import Foundation
 import UIKit
 
 class verifiva {
-   var a = "a danilo piacciono i miei germi"
+   var a = "a danilo non piacciono i miei germi"
 }
 //ruie
