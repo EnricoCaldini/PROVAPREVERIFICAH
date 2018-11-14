@@ -10,5 +10,6 @@ import Foundation
 import UIKit
 
 class verifiva {
-   
+   for(int i = 0)
 }
+//ruie
