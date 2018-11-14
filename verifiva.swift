@@ -12,3 +12,4 @@ import UIKit
 class verifiva {
    var a = "a danilo piacciono i miei germi"
 }
+//ruie
